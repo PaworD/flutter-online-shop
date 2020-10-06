@@ -1,6 +1,6 @@
-# shop_2_udemy
+# Shoppy
 
-A new Flutter project.
+Flutter project: E-Commerce Appliaction with Firebase Auth and Firebase Firestore
 
 ## Getting Started
 
