@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1078731824040",
+    "firebase_url": "https://fluuter-udemy.firebaseio.com",
+    "project_id": "fluuter-udemy",
+    "storage_bucket": "fluuter-udemy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078731824040:android:77bed16854da28f3569b9d",
+        "android_client_info": {
+          "package_name": "com.example.shop_2_udemy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078731824040-n25tv2j4rkb5vhm6qogu8ba4ci0lniel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADFRekyWCCHsHiPfzr4mK-V52BPIh4scs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078731824040-n25tv2j4rkb5vhm6qogu8ba4ci0lniel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
